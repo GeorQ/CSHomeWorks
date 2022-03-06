@@ -1,0 +1,14 @@
+C:\Users\georq\source\repos\GeorQ\CSHomeWorks\FirstHW\bin\Debug\netcoreapp3.1\FirstHW.exe
+C:\Users\georq\source\repos\GeorQ\CSHomeWorks\FirstHW\bin\Debug\netcoreapp3.1\FirstHW.deps.json
+C:\Users\georq\source\repos\GeorQ\CSHomeWorks\FirstHW\bin\Debug\netcoreapp3.1\FirstHW.runtimeconfig.json
+C:\Users\georq\source\repos\GeorQ\CSHomeWorks\FirstHW\bin\Debug\netcoreapp3.1\FirstHW.runtimeconfig.dev.json
+C:\Users\georq\source\repos\GeorQ\CSHomeWorks\FirstHW\bin\Debug\netcoreapp3.1\FirstHW.dll
+C:\Users\georq\source\repos\GeorQ\CSHomeWorks\FirstHW\bin\Debug\netcoreapp3.1\FirstHW.pdb
+C:\Users\georq\source\repos\GeorQ\CSHomeWorks\FirstHW\obj\Debug\netcoreapp3.1\FirstHW.csproj.AssemblyReference.cache
+C:\Users\georq\source\repos\GeorQ\CSHomeWorks\FirstHW\obj\Debug\netcoreapp3.1\FirstHW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\georq\source\repos\GeorQ\CSHomeWorks\FirstHW\obj\Debug\netcoreapp3.1\FirstHW.AssemblyInfoInputs.cache
+C:\Users\georq\source\repos\GeorQ\CSHomeWorks\FirstHW\obj\Debug\netcoreapp3.1\FirstHW.AssemblyInfo.cs
+C:\Users\georq\source\repos\GeorQ\CSHomeWorks\FirstHW\obj\Debug\netcoreapp3.1\FirstHW.csproj.CoreCompileInputs.cache
+C:\Users\georq\source\repos\GeorQ\CSHomeWorks\FirstHW\obj\Debug\netcoreapp3.1\FirstHW.dll
+C:\Users\georq\source\repos\GeorQ\CSHomeWorks\FirstHW\obj\Debug\netcoreapp3.1\FirstHW.pdb
+C:\Users\georq\source\repos\GeorQ\CSHomeWorks\FirstHW\obj\Debug\netcoreapp3.1\FirstHW.genruntimeconfig.cache
