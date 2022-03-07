@@ -1,0 +1,14 @@
+C:\Users\georq\source\repos\GeorQ\CSHomeWorks\SecondHW\bin\Debug\netcoreapp3.1\SecondHW.exe
+C:\Users\georq\source\repos\GeorQ\CSHomeWorks\SecondHW\bin\Debug\netcoreapp3.1\SecondHW.deps.json
+C:\Users\georq\source\repos\GeorQ\CSHomeWorks\SecondHW\bin\Debug\netcoreapp3.1\SecondHW.runtimeconfig.json
+C:\Users\georq\source\repos\GeorQ\CSHomeWorks\SecondHW\bin\Debug\netcoreapp3.1\SecondHW.runtimeconfig.dev.json
+C:\Users\georq\source\repos\GeorQ\CSHomeWorks\SecondHW\bin\Debug\netcoreapp3.1\SecondHW.dll
+C:\Users\georq\source\repos\GeorQ\CSHomeWorks\SecondHW\bin\Debug\netcoreapp3.1\SecondHW.pdb
+C:\Users\georq\source\repos\GeorQ\CSHomeWorks\SecondHW\obj\Debug\netcoreapp3.1\SecondHW.csproj.AssemblyReference.cache
+C:\Users\georq\source\repos\GeorQ\CSHomeWorks\SecondHW\obj\Debug\netcoreapp3.1\SecondHW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\georq\source\repos\GeorQ\CSHomeWorks\SecondHW\obj\Debug\netcoreapp3.1\SecondHW.AssemblyInfoInputs.cache
+C:\Users\georq\source\repos\GeorQ\CSHomeWorks\SecondHW\obj\Debug\netcoreapp3.1\SecondHW.AssemblyInfo.cs
+C:\Users\georq\source\repos\GeorQ\CSHomeWorks\SecondHW\obj\Debug\netcoreapp3.1\SecondHW.csproj.CoreCompileInputs.cache
+C:\Users\georq\source\repos\GeorQ\CSHomeWorks\SecondHW\obj\Debug\netcoreapp3.1\SecondHW.dll
+C:\Users\georq\source\repos\GeorQ\CSHomeWorks\SecondHW\obj\Debug\netcoreapp3.1\SecondHW.pdb
+C:\Users\georq\source\repos\GeorQ\CSHomeWorks\SecondHW\obj\Debug\netcoreapp3.1\SecondHW.genruntimeconfig.cache
