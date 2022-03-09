@@ -60,6 +60,9 @@ namespace Part2
                     case "T":
                         sum += 10;
                         break;
+                    default:
+                        sum += 0;
+                        break;
                 }
             }
             Console.WriteLine($"You sum is {sum}");

@@ -11,3 +11,4 @@ C:\Users\georq\source\repos\GeorQ\CSHomeWorks\ThirdHW\Part3\obj\Debug\netcoreapp
 C:\Users\georq\source\repos\GeorQ\CSHomeWorks\ThirdHW\Part3\obj\Debug\netcoreapp3.1\Part3.dll
 C:\Users\georq\source\repos\GeorQ\CSHomeWorks\ThirdHW\Part3\obj\Debug\netcoreapp3.1\Part3.pdb
 C:\Users\georq\source\repos\GeorQ\CSHomeWorks\ThirdHW\Part3\obj\Debug\netcoreapp3.1\Part3.genruntimeconfig.cache
+C:\Users\georq\source\repos\GeorQ\CSHomeWorks\ThirdHW\Part3\obj\Debug\netcoreapp3.1\Part3.csproj.AssemblyReference.cache
