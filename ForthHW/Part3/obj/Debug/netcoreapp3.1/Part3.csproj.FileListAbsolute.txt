@@ -1,0 +1,14 @@
+C:\Users\georq\source\repos\GeorQ\CSHomeWorks\ForthHW\Part3\bin\Debug\netcoreapp3.1\Part3.exe
+C:\Users\georq\source\repos\GeorQ\CSHomeWorks\ForthHW\Part3\bin\Debug\netcoreapp3.1\Part3.deps.json
+C:\Users\georq\source\repos\GeorQ\CSHomeWorks\ForthHW\Part3\bin\Debug\netcoreapp3.1\Part3.runtimeconfig.json
+C:\Users\georq\source\repos\GeorQ\CSHomeWorks\ForthHW\Part3\bin\Debug\netcoreapp3.1\Part3.runtimeconfig.dev.json
+C:\Users\georq\source\repos\GeorQ\CSHomeWorks\ForthHW\Part3\bin\Debug\netcoreapp3.1\Part3.dll
+C:\Users\georq\source\repos\GeorQ\CSHomeWorks\ForthHW\Part3\bin\Debug\netcoreapp3.1\Part3.pdb
+C:\Users\georq\source\repos\GeorQ\CSHomeWorks\ForthHW\Part3\obj\Debug\netcoreapp3.1\Part3.csproj.AssemblyReference.cache
+C:\Users\georq\source\repos\GeorQ\CSHomeWorks\ForthHW\Part3\obj\Debug\netcoreapp3.1\Part3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\georq\source\repos\GeorQ\CSHomeWorks\ForthHW\Part3\obj\Debug\netcoreapp3.1\Part3.AssemblyInfoInputs.cache
+C:\Users\georq\source\repos\GeorQ\CSHomeWorks\ForthHW\Part3\obj\Debug\netcoreapp3.1\Part3.AssemblyInfo.cs
+C:\Users\georq\source\repos\GeorQ\CSHomeWorks\ForthHW\Part3\obj\Debug\netcoreapp3.1\Part3.csproj.CoreCompileInputs.cache
+C:\Users\georq\source\repos\GeorQ\CSHomeWorks\ForthHW\Part3\obj\Debug\netcoreapp3.1\Part3.dll
+C:\Users\georq\source\repos\GeorQ\CSHomeWorks\ForthHW\Part3\obj\Debug\netcoreapp3.1\Part3.pdb
+C:\Users\georq\source\repos\GeorQ\CSHomeWorks\ForthHW\Part3\obj\Debug\netcoreapp3.1\Part3.genruntimeconfig.cache
