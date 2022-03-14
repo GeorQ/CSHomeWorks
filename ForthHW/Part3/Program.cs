@@ -4,14 +4,16 @@ namespace Part3
 {
     class Program
     {
-        //Да это костыль, лень думать, просто не хочу чтоб при пустой строке ретернило -1 это будет ошибкой на 14 линии кода, 
-        //при попытке создания рандом числа от -1, а сделанно это для того чтоб на 13 линии кода, чел мог по ошибке ввести пустую строку! 
-        static int maxGuess = -1;
+        static int maxGuess;
         static void Main(string[] args)
         {
             Random rd = new Random();
-            maxGuess = GetValidInputInt("Enter max number to guess: ");
-            Console.WriteLine(maxGuess);
+
+            do
+            {
+                maxGuess = GetValidInputInt("Enter max number to guess it should be non negative int which is bigger than 0:  ");
+            } while (maxGuess <= 0);
+
             int guess = rd.Next(maxGuess + 1);
             int currentGuess;
             while (true)

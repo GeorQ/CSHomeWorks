@@ -6,8 +6,20 @@ namespace Part1
     {
         static void Main(string[] args)
         {
-            int numOfCol = GetValidInputInt("Enter number of columns: ");
-            int numOfRow = GetValidInputInt("Enter number of rows: ");
+            int numOfCol;
+            int numOfRow;
+
+            do
+            {
+                numOfCol = GetValidInputInt("Enter number of columns it should be non negative int which is bigger than 0:  ");
+            } while (numOfCol <= 0);
+
+
+            do
+            {
+                numOfRow = GetValidInputInt("Enter number of rows it should be non negative int which is bigger than 0:  ");
+            } while (numOfRow <= 0);
+
             int[,] mat = RandomMatrixGenerator(numOfCol, numOfRow);
             PrintMatrix(mat);
             Console.WriteLine($"The matrix sum is {GetMatrixSum(mat)}");
@@ -31,7 +43,7 @@ namespace Part1
             {
                 for (int j = 0; j < matrix.GetLength(1); j++)
                 {
-                    matrix[i, j] = rd.Next(10, 30);
+                    matrix[i, j] = rd.Next();
                 }
             }
             return matrix;

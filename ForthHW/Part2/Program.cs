@@ -7,7 +7,11 @@ namespace Part2
         public static int minNum = int.MaxValue;
         static void Main(string[] args)
         {
-            int numOfNums = GetValidInputInt("How many number do u want to enter: ");
+            int numOfNums;
+            do
+            {
+                numOfNums = GetValidInputInt("How many number do u want to enter? Eneter non negative int which is bigger than 0: ");
+            } while (numOfNums <= 0);
             int[] ls = GetLsInt(numOfNums);
             Console.WriteLine($"Min num is {GetMinNum()}");
             Console.WriteLine($"Min num is {GetMinNum(ls)}");
