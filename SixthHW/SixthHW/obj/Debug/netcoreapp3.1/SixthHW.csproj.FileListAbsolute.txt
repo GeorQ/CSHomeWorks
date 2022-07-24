@@ -1,0 +1,13 @@
+C:\Users\georq\Desktop\coding\Git\CSHomeWorks\SixthHW\SixthHW\bin\Debug\netcoreapp3.1\SixthHW.exe
+C:\Users\georq\Desktop\coding\Git\CSHomeWorks\SixthHW\SixthHW\bin\Debug\netcoreapp3.1\SixthHW.deps.json
+C:\Users\georq\Desktop\coding\Git\CSHomeWorks\SixthHW\SixthHW\bin\Debug\netcoreapp3.1\SixthHW.runtimeconfig.json
+C:\Users\georq\Desktop\coding\Git\CSHomeWorks\SixthHW\SixthHW\bin\Debug\netcoreapp3.1\SixthHW.runtimeconfig.dev.json
+C:\Users\georq\Desktop\coding\Git\CSHomeWorks\SixthHW\SixthHW\bin\Debug\netcoreapp3.1\SixthHW.dll
+C:\Users\georq\Desktop\coding\Git\CSHomeWorks\SixthHW\SixthHW\bin\Debug\netcoreapp3.1\SixthHW.pdb
+C:\Users\georq\Desktop\coding\Git\CSHomeWorks\SixthHW\SixthHW\obj\Debug\netcoreapp3.1\SixthHW.csproj.AssemblyReference.cache
+C:\Users\georq\Desktop\coding\Git\CSHomeWorks\SixthHW\SixthHW\obj\Debug\netcoreapp3.1\SixthHW.AssemblyInfoInputs.cache
+C:\Users\georq\Desktop\coding\Git\CSHomeWorks\SixthHW\SixthHW\obj\Debug\netcoreapp3.1\SixthHW.AssemblyInfo.cs
+C:\Users\georq\Desktop\coding\Git\CSHomeWorks\SixthHW\SixthHW\obj\Debug\netcoreapp3.1\SixthHW.csproj.CoreCompileInputs.cache
+C:\Users\georq\Desktop\coding\Git\CSHomeWorks\SixthHW\SixthHW\obj\Debug\netcoreapp3.1\SixthHW.dll
+C:\Users\georq\Desktop\coding\Git\CSHomeWorks\SixthHW\SixthHW\obj\Debug\netcoreapp3.1\SixthHW.pdb
+C:\Users\georq\Desktop\coding\Git\CSHomeWorks\SixthHW\SixthHW\obj\Debug\netcoreapp3.1\SixthHW.genruntimeconfig.cache

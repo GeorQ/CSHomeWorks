@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\georq\\Desktop\\coding\\Git\\CSHomeWorks\\FifthHW\\Part1\\Part1.csproj": {}
+    "C:\\Users\\georq\\Desktop\\coding\\Git\\CSHomeWorks\\SixthHW\\SixthHW\\SixthHW.csproj": {}
   },
   "projects": {
-    "C:\\Users\\georq\\Desktop\\coding\\Git\\CSHomeWorks\\FifthHW\\Part1\\Part1.csproj": {
+    "C:\\Users\\georq\\Desktop\\coding\\Git\\CSHomeWorks\\SixthHW\\SixthHW\\SixthHW.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\georq\\Desktop\\coding\\Git\\CSHomeWorks\\FifthHW\\Part1\\Part1.csproj",
-        "projectName": "Part1",
-        "projectPath": "C:\\Users\\georq\\Desktop\\coding\\Git\\CSHomeWorks\\FifthHW\\Part1\\Part1.csproj",
+        "projectUniqueName": "C:\\Users\\georq\\Desktop\\coding\\Git\\CSHomeWorks\\SixthHW\\SixthHW\\SixthHW.csproj",
+        "projectName": "SixthHW",
+        "projectPath": "C:\\Users\\georq\\Desktop\\coding\\Git\\CSHomeWorks\\SixthHW\\SixthHW\\SixthHW.csproj",
         "packagesPath": "C:\\Users\\georq\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\georq\\Desktop\\coding\\Git\\CSHomeWorks\\FifthHW\\Part1\\obj\\",
+        "outputPath": "C:\\Users\\georq\\Desktop\\coding\\Git\\CSHomeWorks\\SixthHW\\SixthHW\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\georq\\AppData\\Roaming\\NuGet\\NuGet.Config",
