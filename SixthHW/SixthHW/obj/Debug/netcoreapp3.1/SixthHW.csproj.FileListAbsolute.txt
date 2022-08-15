@@ -11,3 +11,4 @@ C:\Users\georq\Desktop\coding\Git\CSHomeWorks\SixthHW\SixthHW\obj\Debug\netcorea
 C:\Users\georq\Desktop\coding\Git\CSHomeWorks\SixthHW\SixthHW\obj\Debug\netcoreapp3.1\SixthHW.dll
 C:\Users\georq\Desktop\coding\Git\CSHomeWorks\SixthHW\SixthHW\obj\Debug\netcoreapp3.1\SixthHW.pdb
 C:\Users\georq\Desktop\coding\Git\CSHomeWorks\SixthHW\SixthHW\obj\Debug\netcoreapp3.1\SixthHW.genruntimeconfig.cache
+C:\Users\georq\Desktop\coding\Git\CSHomeWorks\SixthHW\SixthHW\obj\Debug\netcoreapp3.1\SixthHW.GeneratedMSBuildEditorConfig.editorconfig
